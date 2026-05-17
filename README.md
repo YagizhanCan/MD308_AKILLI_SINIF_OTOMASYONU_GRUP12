@@ -77,7 +77,7 @@ Bu komut; yerel Mosquitto Broker'ı, asenkron ağ geçidini, yapay veri simülat
 Tarayıcınızda anında açılacak adres: http://localhost:8501
 
 
-## 👨‍💻 Geliştirici Grubu (Grup 12 Üyeleri)
+👨‍💻 Geliştirici Grubu (Grup 12 Üyeleri)
 Bu proje, aşağıda bilgileri yer alan Grup 12 üyeleri tarafından uçtan uca tasarlanmış, kodlanmış ve entegre edilmiştir:
 
 YAĞIZHAN CAN - 21120205711 (Sistem Mimarisi, Asenkron Gateway, DB & Ajan Yönetimi)
